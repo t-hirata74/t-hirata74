@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=t-hirata74)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=t-hirata74&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-hirata74" />
+</a>
 
 <!--
 **t-hirata74/t-hirata74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
