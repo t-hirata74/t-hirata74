@@ -1,23 +1,42 @@
-### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=t-hirata74&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-hirata74&layout=compact" />
-</a>
+## 最近の活動（Contribution）
 
-<!--
-**t-hirata74/t-hirata74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=t-hirata74&theme=github-dark&hide_border=true"
+    alt="Contribution graph"
+  />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## スキル傾向（Top Languages）
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-hirata74&layout=compact&hide_border=true&langs_count=8&theme=github_dark"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## コントリビューション統計
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=t-hirata74&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=t-hirata74&theme=github_dark&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+気になるリポジトリがあれば、スターやフォローで反応してもらえると嬉しいです。
