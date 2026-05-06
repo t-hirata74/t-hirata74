@@ -1,3 +1,24 @@
+## 最近の活動
+
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=t-hirata74&theme=github-dark&hide_border=true"
+    alt="Contribution graph"
+  />
+</p>
+
+---
+
+## コントリビューション統計
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com/?user=t-hirata74&theme=github_dark&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+---
 
 ## 学習ポートフォリオ
 
@@ -20,25 +41,5 @@
 設計判断はすべて **ADR (Architecture Decision Record)** として記録し、E2E テストは Playwright で gif 化して各 README に埋め込んでいる。プロジェクト一覧は GitHub Actions で `service-architecture-lab` の README から日次自動同期。
 <!-- portfolio:end -->
 
----
 
-## 最近の活動
-
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=t-hirata74&theme=github-dark&hide_border=true"
-    alt="Contribution graph"
-  />
-</p>
-
----
-
-## コントリビューション統計
-
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com/?user=t-hirata74&theme=github_dark&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
 
