@@ -1,0 +1,42 @@
+name: Update portfolio
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # 06:00 JST daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Checkout service-architecture-lab
+        uses: actions/checkout@v4
+        with:
+          repository: t-hirata74/service-architecture-lab
+          path: service-architecture-lab
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Sync portfolio section
+        run: python scripts/update_portfolio.py
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync portfolio from service-architecture-lab"
+          git push
